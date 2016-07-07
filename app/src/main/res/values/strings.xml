@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestListViewMultiColumnas</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="columna_1">Nombre</string>
+    <string name="columna_2">Edad</string>
+    <string name="columna_3">Ciudad</string>
+    <string name="columna_4">Altura</string>
+</resources>
